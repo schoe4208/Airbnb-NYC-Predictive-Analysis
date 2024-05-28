@@ -44,14 +44,17 @@ To have the most success in finding a great Airbnb listing, tourists should:
 2. Target listings with more than 20 reviews
 3. Pay a slight premium of up to 10-20% to secure better deals.
 
-Exhibit 1
-![image](https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/image/Exhibit%201-%20Brooklyn.png)
+**Exhibit 1**
 
-Exhibit 2
-![image](https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/image/Exhibit%202%20-%20Number%20of%20Reviews.png)
+<img src="https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/image/Exhibit%201-%20Brooklyn.png" width="700" height="400">
 
-Exhibit 3
-![image](https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/image/Exhibit%203%20-%20Average%20Price%20Per%20Night.png)
+**Exhibit 2**
+
+<img src="https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/image/Exhibit%202%20-%20Number%20of%20Reviews.png" width="700" height="400">
+
+**Exhibit 3**
+
+<img src="https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/image/Exhibit%203%20-%20Average%20Price%20Per%20Night.png" width="700" height="400">
 
 ## For More Information
 - Detailed Analysis: [Jupyter Notebook](https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/airbnb_notebook.ipynb)
