@@ -45,28 +45,28 @@ To have the most success in finding a great Airbnb listing, tourists should:
 3. Pay a slight premium of up to 10-20% to secure better deals.
 
 Exhibit 1
-
+![image](https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/image/Exhibit%201-%20Brooklyn.png)
 
 Exhibit 2
-
+![image](https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/image/Exhibit%202%20-%20Number%20of%20Reviews.png)
 
 Exhibit 3
-
+![image](https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/image/Exhibit%203%20-%20Average%20Price%20Per%20Night.png)
 
 ## For More Information
-- Detailed Analysis: 
-- Presentation Deck: 
+- Detailed Analysis: [Jupyter Notebook](https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/airbnb_notebook.ipynb)
+- Presentation Deck: [Presentation Deck]()
 
 ## Repository Structure
 ```
 |— data                                                      <- Original dataset and database
     |— Airbnb_Data_Info.txt                                  <- Raw data
 |— image                                                     <- Screenshots
-    |— XXX.jpg                                    <- Screenshot
-    |— XXX.jpg                                     <- Screenshot
-    |— XXX                                         <- Screenshot
-|— README.md                                                 <- Overview of the Project
+    |— Exhibit 1- Brooklyn.png                               <- Screenshot
+    |— Exhibit 2 - Number of Reviews.png                     <- Screenshot
+    |— Exhibit 3 - Aveage Price Per Night.png                <- Screenshot
 |— .gitignore                                                <- List of files to exclude
+|— README.md                                                 <- Overview of the Project
 |— airbnb_notebook.ipynb                                     <- Detailed analysis in Jupyter Notebook
 |_ presentation.pdf                                          <- PDF version of the project presentation slides
 ```
