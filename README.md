@@ -1,6 +1,6 @@
 ![image](https://www.spinxdigital.com/app/uploads/2022/11/image-airbnb.jpg)
 # Deal or No Deal?
-## A Comprehensive Analysis of NYC Airbnb Listing
+## A Predictive Analysis of NYC Airbnb Listing
 **Author:** Sam Choe
 
 **DISCLAIMER:** THIS PROJECT HAS NOT BEEN SPONSORED BY AIRBNB AND WAS CONDUCTED AS AN ACADEMIC EXERCISE
