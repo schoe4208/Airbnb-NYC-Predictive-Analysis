@@ -58,7 +58,7 @@ To have the most success in finding a great Airbnb listing, tourists should:
 
 ## For More Information
 - Detailed Analysis: [Jupyter Notebook](https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/airbnb_notebook.ipynb)
-- Presentation Deck: [Presentation Deck]()
+- Presentation Deck: [Presentation Deck](https://github.com/schoe4208/Airbnb-NYC-Predictive-Analysis/blob/main/presentation.pdf)
 
 ## Repository Structure
 ```
